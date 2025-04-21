@@ -7,7 +7,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! 나는 테스트1입니다 내가 정답입니다");
+            Console.WriteLine("Hello World! 나는 테스트1입니다 내가 정답입니다 ㅁㅁ");
         }
     }
 }
